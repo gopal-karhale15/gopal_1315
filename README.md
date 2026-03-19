@@ -12,7 +12,12 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=80&section=header" width="100%"/>
+<!-- 🔥 HERO GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700"/>
+</p>
+
+---
 
 ## 🧠 Developer Profile
 
@@ -24,7 +29,12 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=80&section=header" width="100%"/>
+<!-- 🎬 SECOND GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
+
+---
 
 ## ⚡ Tech Stack
 
@@ -40,8 +50,6 @@
 </p>
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=80&section=header" width="100%"/>
 
 ## 📊 GitHub Performance
 
@@ -59,7 +67,12 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=80&section=header" width="100%"/>
+<!-- 📊 THIRD GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="500"/>
+</p>
+
+---
 
 ## 🚀 Featured Systems
 
@@ -81,8 +94,6 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=80&section=header" width="100%"/>
-
 ## 📈 Growth Journey
 
 - 🌱 Learning Spring Boot  
@@ -90,8 +101,6 @@
 - ⚙️ Building backend systems  
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=80&section=header" width="100%"/>
 
 ## 🧠 Code Philosophy
 
@@ -101,7 +110,12 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=80&section=header" width="100%"/>
+<!-- 🎬 ENDING GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="600"/>
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
