@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=280&section=header&text=Gopal%20Karhale&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20|%20Full%20Stack%20Engineer&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=300&section=header&text=Gopal%20Karhale&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20|%20Full%20Stack%20Engineer&descAlignY=65" width="100%"/>
 
 <h1 align="center">Hi 👋, I'm Gopal</h1>
 
@@ -7,20 +7,24 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&width=800&lines=Backend+Developer;Full+Stack+Engineer;Java+Spring+Boot+Developer;Building+Scalable+Systems;Designing+APIs+%26+Databases" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=32&center=true&vCenter=true&width=900&lines=Backend+Developer;Full+Stack+Engineer;Java+Spring+Boot+Developer;Building+Scalable+Systems;Designing+APIs+%26+Databases" />
 </p>
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=80&section=header" width="100%"/>
+
 ## 🧠 Developer Profile
 
-- 🚀 Backend Developer focused on **scalable systems**
-- ⚙️ Building REST APIs using **Java + Spring Boot**
-- 🗄️ Strong in **DBMS, SQL & Database Design**
-- 🌐 Learning **Full Stack Development**
-- 🎯 Mission: Build production-level applications used by thousands
+- 🚀 Backend Developer focused on scalable systems  
+- ⚙️ Building REST APIs using Java + Spring Boot  
+- 🗄️ Strong in DBMS & SQL  
+- 🌐 Learning Full Stack Development  
+- 🎯 Goal: Become professional Software Engineer  
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=80&section=header" width="100%"/>
 
 ## ⚡ Tech Stack
 
@@ -29,13 +33,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DBMS-000000?style=for-the-badge&logo=database" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot" />
-  <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DBMS-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-orange?style=for-the-badge" />
 </p>
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=80&section=header" width="100%"/>
 
 ## 📊 GitHub Performance
 
@@ -53,60 +59,49 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=80&section=header" width="100%"/>
+
 ## 🚀 Featured Systems
 
 ### ☕ Java Complete Course  
-📚 Covers: Core Java → OOPS → Collections → Projects  
 🔗 https://github.com/gopal-karhale15/java-complete-course-by-gopal  
 
 ---
 
-### ⚙️ Student Management System (Backend)
-- CRUD Operations (Create, Read, Update, Delete)  
-- Database Integration (SQL)  
-- Designed as scalable backend system  
+### ⚙️ Student Management System  
+- CRUD operations  
+- SQL integration  
+- Backend logic  
 
 ---
 
-### 🚗 Smart Vehicle Backend (Upcoming)
-- REST API based architecture  
-- Database-driven system  
-- Real-time data handling (future scope)  
+### 🚗 Smart Vehicle Backend  
+- REST API design  
+- Database integration  
 
 ---
 
-## 🌐 Live & API Vision
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=80&section=header" width="100%"/>
 
-🚀 Soon deploying:
-- Backend APIs using Spring Boot  
-- Database-connected applications  
-- Real-world project hosting  
+## 📈 Growth Journey
 
----
-
-## 📈 Current Growth
-
-- 🌱 Learning Spring Boot deeply  
-- 🗄️ Mastering SQL & DB Design  
-- ⚙️ Building backend architecture skills  
+- 🌱 Learning Spring Boot  
+- 🗄️ Improving SQL  
+- ⚙️ Building backend systems  
 
 ---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF00,100:000000&height=80&section=header" width="100%"/>
 
 ## 🧠 Code Philosophy
 
-- Write clean, maintainable backend code  
-- Focus on scalability & performance  
-- Build systems, not just apps  
+- Clean backend code  
+- Scalable systems  
+- Real-world problem solving  
 
 ---
 
-## 🏆 Developer Goals
-
-- 💼 Backend Engineer (Product-based company)  
-- 🚀 Build scalable applications  
-- 🌍 Contribute to real-world systems  
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=80&section=header" width="100%"/>
 
 ## 🌐 Connect With Me
 
@@ -127,4 +122,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=180&section=footer" width="100%"/>
