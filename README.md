@@ -48,7 +48,7 @@
 
 ☕ Java Complete Course  
 📚 Covers Basics → OOPS → Collections → Projects  
-🔗 https://github.com/gopal-karhale15/java-complete-course
+🔗 https://github.com/gopal-karhale15/java-complete-course-by-gopal.git
 
 ### 🚗 Smart Vehicle AI App
 - AI-based vehicle assistant  
