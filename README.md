@@ -62,7 +62,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/gopal-karhale1513">
+  <a href="https://www.linkedin.com/in/gopal-karhale1513">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:karhalegopal57@gmail.com">
