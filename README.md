@@ -46,6 +46,10 @@
 
 ## 🚀 Featured Projects
 
+☕ Java Complete Course  
+📚 Covers Basics → OOPS → Collections → Projects  
+🔗 https://github.com/gopal-karhale15/java-complete-course
+
 ### 🚗 Smart Vehicle AI App
 - AI-based vehicle assistant  
 - Voice commands + smart alerts  
