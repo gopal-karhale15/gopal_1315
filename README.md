@@ -1,79 +1,130 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F700,100:000000&height=250&section=header&text=Gopal%20Karhale&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=AI%20Developer%20|%20Android%20App%20Builder" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=280&section=header&text=Gopal%20Karhale&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20|%20Full%20Stack%20Engineer&descAlignY=60" />
 
 <h1 align="center">Hi 👋, I'm Gopal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F700&size=25&center=true&vCenter=true&width=600&lines=AI+Developer;Android+App+Builder;Machine+Learning+Enthusiast">
+⚡ Backend Mindset | System Builder | Problem Solver ⚡
 </p>
 
----
-
-## 🚀 About Me
-- 🎓 BCA Student  
-- 💻 AI & Machine Learning Enthusiast  
-- 📱 Building Smart Vehicle AI App  
-- 🎯 Future AI Engineer  
-
----
-
-## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,androidstudio,git,github" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&width=800&lines=Backend+Developer;Full+Stack+Engineer;Java+Spring+Boot+Developer;Building+Scalable+Systems;Designing+APIs+%26+Databases" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Developer Profile
+
+- 🚀 Backend Developer focused on **scalable systems**
+- ⚙️ Building REST APIs using **Java + Spring Boot**
+- 🗄️ Strong in **DBMS, SQL & Database Design**
+- 🌐 Learning **Full Stack Development**
+- 🎯 Mission: Build production-level applications used by thousands
+
+---
+
+## ⚡ Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gopal-karhale15&show_icons=true&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=java,spring,git,github,mysql" />
 </p>
 
----
-
-## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gopal-karhale15&theme=radical" />
+  <img src="https://img.shields.io/badge/DBMS-000000?style=for-the-badge&logo=database" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot" />
+  <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Performance
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gopal-karhale15&theme=react-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gopal-karhale15&show_icons=true&theme=tokyonight&border_radius=15" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gopal-karhale15&theme=tokyonight&border_radius=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gopal-karhale15&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Systems
 
-☕ Java Complete Course  
-📚 Covers Basics → OOPS → Collections → Projects  
-🔗 https://github.com/gopal-karhale15/java-complete-course-by-gopal.git
-
-### 🚗 Smart Vehicle AI App
-- AI-based vehicle assistant  
-- Voice commands + smart alerts  
-
-### 🤖 AI Chatbot
-- NLP based chatbot  
-- Auto reply system  
-
-### 👁️ Face Detection System
-- OpenCV based detection  
-- Real-time face recognition  
+### ☕ Java Complete Course  
+📚 Covers: Core Java → OOPS → Collections → Projects  
+🔗 https://github.com/gopal-karhale15/java-complete-course-by-gopal  
 
 ---
 
-## 🌐 Connect with Me
+### ⚙️ Student Management System (Backend)
+- CRUD Operations (Create, Read, Update, Delete)  
+- Database Integration (SQL)  
+- Designed as scalable backend system  
+
+---
+
+### 🚗 Smart Vehicle Backend (Upcoming)
+- REST API based architecture  
+- Database-driven system  
+- Real-time data handling (future scope)  
+
+---
+
+## 🌐 Live & API Vision
+
+🚀 Soon deploying:
+- Backend APIs using Spring Boot  
+- Database-connected applications  
+- Real-world project hosting  
+
+---
+
+## 📈 Current Growth
+
+- 🌱 Learning Spring Boot deeply  
+- 🗄️ Mastering SQL & DB Design  
+- ⚙️ Building backend architecture skills  
+
+---
+
+## 🧠 Code Philosophy
+
+- Write clean, maintainable backend code  
+- Focus on scalability & performance  
+- Build systems, not just apps  
+
+---
+
+## 🏆 Developer Goals
+
+- 💼 Backend Engineer (Product-based company)  
+- 🚀 Build scalable applications  
+- 🌍 Contribute to real-world systems  
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/gopal-karhale1513">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:karhalegopal57@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F700&height=120&section=footer"/>- 💼 LinkedIn: 
+<p align="center">
+🔥 "Build Backend. Design Systems. Scale Everything." 🔥
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF00&height=150&section=footer"/>
